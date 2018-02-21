@@ -1,0 +1,6 @@
+﻿  Problem 3.cpp
+d:\zarah\projects\c++ project euler\problem 3\problem 3\problem 3.cpp(27): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+d:\zarah\projects\c++ project euler\problem 3\problem 3\problem 3.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\zarah\projects\c++ project euler\problem 3\problem 3\problem 3.cpp(60): warning C4553: '==': operator has no effect; did you intend '='?
+d:\zarah\projects\c++ project euler\problem 3\problem 3\problem 3.cpp(61): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+  Problem 3.vcxproj -> D:\Zarah\Projects\C++ Project Euler\Problem 3\Debug\Problem 3.exe
